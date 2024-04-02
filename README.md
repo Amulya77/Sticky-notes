@@ -1,2 +1,2 @@
 # Sticky-notes
-Simple JS Todo
+Simple JS Todo app
